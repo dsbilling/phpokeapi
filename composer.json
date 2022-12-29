@@ -1,6 +1,6 @@
 {
-    "name": "lmerotta/phpokeapi",
-    "description": "A PHP7.1 Wrapper for PokéAPI, with cache and lazy-loading",
+    "name": "dsbilling/phpokeapi",
+    "description": "A PHP Wrapper for PokéAPI, with cache and lazy-loading",
     "type": "library",
     "require": {
         "php": "^7.1|^8.0",

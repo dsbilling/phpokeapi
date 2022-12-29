@@ -3,8 +3,9 @@
 A PHP wrapper for PokéAPI. This package offers the possibility to query the majority of the PokéAPI endpoints (see exceptions below). It supports caching of responses and lazy-loading relations.
 
 ## Installation
-
-`composer require lmerotta/phpokeapi`
+```bash
+composer require dsbilling/phpokeapi
+```
 
 ## Basic Usage
 
